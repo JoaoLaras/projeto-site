@@ -18,3 +18,13 @@ main {
     margin: auto;
     padding: 10px
 }
+footer {
+    
+    background-color: rgb(131, 123, 114);
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
